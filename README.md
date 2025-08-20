@@ -1,5 +1,5 @@
 ![MasterHead](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fdata-engineering-banner-web-icon-business-1721467741&psig=AOvVaw0PIr9N1VXGIHPDI3SbCGLh&ust=1755725095041000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCKiegejnl48DFQAAAAAdAAAAABAL)
+![MasterHead](https://www.shutterstock.com/shutterstock/photos/1721467741/display_1500/stock-vector-data-engineering-banner-web-icon-for-business-and-organization-data-lake-big-data-process-1721467741.jpg)
 ### <h1 align="center">Hi There👋,<br> I'm Shiva Naga Jyothi Cherukuri</h1>
 <h3 align="center">A Data Engineer with 4+ years of experience in building efficient ETL/ELT data pipelines, optimizing workflows, and helping businesses unlock valuable insights from the world of data.</h3>
 <img align="right" alt="Analytics" width="400" src="https://media.licdn.com/dms/image/D4D12AQE6YGEHPCDSRg/article-cover_image-shrink_600_2000/0/1663928881193?e=2147483647&v=beta&t=cotLsGi82yHXkYgWongytqmwB8zLzuuxefjQefSsFyU">
